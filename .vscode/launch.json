@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InitialsToUpperCase",
+            "request": "launch",
+            "mainClass": "InitialsToUpperCase",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
             "name": "IsEven",
             "request": "launch",
             "mainClass": "IsEven",
