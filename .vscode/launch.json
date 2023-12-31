@@ -1,0 +1,1470 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "IsEven",
+            "request": "launch",
+            "mainClass": "IsEven",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpPart6AssQ5",
+            "request": "launch",
+            "mainClass": "DpPart6AssQ5",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpPart6AssQ4",
+            "request": "launch",
+            "mainClass": "DpPart6AssQ4",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpPart6AssQ3",
+            "request": "launch",
+            "mainClass": "DpPart6AssQ3",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpPart6AssQ2",
+            "request": "launch",
+            "mainClass": "DpPart6AssQ2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DPpart6AssignmentQ1",
+            "request": "launch",
+            "mainClass": "DPpart6AssignmentQ1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "SegMaxTree",
+            "request": "launch",
+            "mainClass": "SegMaxTree",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "SegmentTree",
+            "request": "launch",
+            "mainClass": "SegmentTree",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "MinArrayJumps",
+            "request": "launch",
+            "mainClass": "MinArrayJumps",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "MinimumPartitioningDp",
+            "request": "launch",
+            "mainClass": "MinimumPartitioningDp",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "McmTabulation",
+            "request": "launch",
+            "mainClass": "McmTabulation",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "McmMemoization",
+            "request": "launch",
+            "mainClass": "McmMemoization",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "MountainRangeDp",
+            "request": "launch",
+            "mainClass": "MountainRangeDp",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "MatrixMultiplicationMinCost",
+            "request": "launch",
+            "mainClass": "MatrixMultiplicationMinCost",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpStringConversion",
+            "request": "launch",
+            "mainClass": "DpStringConversion",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpEditDistance",
+            "request": "launch",
+            "mainClass": "DpEditDistance",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpLis",
+            "request": "launch",
+            "mainClass": "DpLis",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpLongestCommonSubstring",
+            "request": "launch",
+            "mainClass": "DpLongestCommonSubstring",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpLcsTabulation",
+            "request": "launch",
+            "mainClass": "DpLcsTabulation",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpLcsMemoization",
+            "request": "launch",
+            "mainClass": "DpLcsMemoization",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpLcsRecursion",
+            "request": "launch",
+            "mainClass": "DpLcsRecursion",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpRodCutting",
+            "request": "launch",
+            "mainClass": "DpRodCutting",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpCoinChange",
+            "request": "launch",
+            "mainClass": "DpCoinChange",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpUnboundedKnapsack",
+            "request": "launch",
+            "mainClass": "DpUnboundedKnapsack",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpTargetSumSubset",
+            "request": "launch",
+            "mainClass": "DpTargetSumSubset",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Dp01KnapSackMemozation",
+            "request": "launch",
+            "mainClass": "Dp01KnapSackMemozation",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Dp01KnapSackRecursion",
+            "request": "launch",
+            "mainClass": "Dp01KnapSackRecursion",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpClimbingStairsVariation",
+            "request": "launch",
+            "mainClass": "DpClimbingStairsVariation",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DpClimbingStairs",
+            "request": "launch",
+            "mainClass": "DpClimbingStairs",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DynamicProgrammingFiboSeries",
+            "request": "launch",
+            "mainClass": "DynamicProgrammingFiboSeries",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphArticulationPoint",
+            "request": "launch",
+            "mainClass": "GraphArticulationPoint",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphBridge",
+            "request": "launch",
+            "mainClass": "GraphBridge",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GrpahStronglyConnectedComponents",
+            "request": "launch",
+            "mainClass": "GrpahStronglyConnectedComponents",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphPracticeQSet2Q5",
+            "request": "launch",
+            "mainClass": "GraphPracticeQSet2Q5",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GrphPracticeQSet2Q4",
+            "request": "launch",
+            "mainClass": "GrphPracticeQSet2Q4",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphPracticeQSet2Q3",
+            "request": "launch",
+            "mainClass": "GraphPracticeQSet2Q3",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphPracticeQSet2Q2",
+            "request": "launch",
+            "mainClass": "GraphPracticeQSet2Q2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphPracticQSet2Q1",
+            "request": "launch",
+            "mainClass": "GraphPracticQSet2Q1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "FloydWarshallsAlgo",
+            "request": "launch",
+            "mainClass": "FloydWarshallsAlgo",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "FloodFillAlgo",
+            "request": "launch",
+            "mainClass": "FloodFillAlgo",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "KruskalsAlgol",
+            "request": "launch",
+            "mainClass": "KruskalsAlgol",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DisjointSetUnion",
+            "request": "launch",
+            "mainClass": "DisjointSetUnion",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphConnectingCities",
+            "request": "launch",
+            "mainClass": "GraphConnectingCities",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphCheapestFlightsWithinKStops",
+            "request": "launch",
+            "mainClass": "GraphCheapestFlightsWithinKStops",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "PrimsAlgo",
+            "request": "launch",
+            "mainClass": "PrimsAlgo",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BellmanFordAlgo",
+            "request": "launch",
+            "mainClass": "BellmanFordAlgo",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphPracticeQset1Q5",
+            "request": "launch",
+            "mainClass": "GraphPracticeQset1Q5",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphPracticeQset1Q4",
+            "request": "launch",
+            "mainClass": "GraphPracticeQset1Q4",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphPracticeQset1Q3",
+            "request": "launch",
+            "mainClass": "GraphPracticeQset1Q3",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphPracticeQset1Q2",
+            "request": "launch",
+            "mainClass": "GraphPracticeQset1Q2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphPracticeQset1Q1",
+            "request": "launch",
+            "mainClass": "GraphPracticeQset1Q1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphDijkstraAlgo",
+            "request": "launch",
+            "mainClass": "GraphDijkstraAlgo",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphTopologicalSortingDFS",
+            "request": "launch",
+            "mainClass": "GraphTopologicalSortingDFS",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphDirectedCycleDetection",
+            "request": "launch",
+            "mainClass": "GraphDirectedCycleDetection",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphBipartiteProb",
+            "request": "launch",
+            "mainClass": "GraphBipartiteProb",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphCycleDetectionDFS",
+            "request": "launch",
+            "mainClass": "GraphCycleDetectionDFS",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphConnectedComponentsDFSBFS",
+            "request": "launch",
+            "mainClass": "GraphConnectedComponentsDFSBFS",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphHasPathProb",
+            "request": "launch",
+            "mainClass": "GraphHasPathProb",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Deapth1stSearchGraph",
+            "request": "launch",
+            "mainClass": "Deapth1stSearchGraph",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Breadth1stSearchGraph",
+            "request": "launch",
+            "mainClass": "Breadth1stSearchGraph",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GraphDS",
+            "request": "launch",
+            "mainClass": "GraphDS",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "TriespracticeQ2",
+            "request": "launch",
+            "mainClass": "TriespracticeQ2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "TriesPracticeQ1",
+            "request": "launch",
+            "mainClass": "TriesPracticeQ1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "TriesLongestWordWithAllPrefixesProb",
+            "request": "launch",
+            "mainClass": "TriesLongestWordWithAllPrefixesProb",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "TriesUniqueSubstringProb",
+            "request": "launch",
+            "mainClass": "TriesUniqueSubstringProb",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "TriesStartsWithProb",
+            "request": "launch",
+            "mainClass": "TriesStartsWithProb",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "TriesPrefixProb",
+            "request": "launch",
+            "mainClass": "TriesPrefixProb",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "TriesWordBreakProb",
+            "request": "launch",
+            "mainClass": "TriesWordBreakProb",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "TriesDS",
+            "request": "launch",
+            "mainClass": "TriesDS",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "HashMapPracticeQ3",
+            "request": "launch",
+            "mainClass": "HashMapPracticeQ3",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "HashMapPracticeQuestion2",
+            "request": "launch",
+            "mainClass": "HashMapPracticeQuestion2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "HashMapPracticeQ1",
+            "request": "launch",
+            "mainClass": "HashMapPracticeQ1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "SubarraySumequal2K",
+            "request": "launch",
+            "mainClass": "SubarraySumequal2K",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "IteneraryForTicketHashMap",
+            "request": "launch",
+            "mainClass": "IteneraryForTicketHashMap",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "IntersectHashSet",
+            "request": "launch",
+            "mainClass": "IntersectHashSet",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "CountDistinctElementsHashSet",
+            "request": "launch",
+            "mainClass": "CountDistinctElementsHashSet",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "ValidAnagramHashMap",
+            "request": "launch",
+            "mainClass": "ValidAnagramHashMap",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "MajjorityElementHashMap",
+            "request": "launch",
+            "mainClass": "MajjorityElementHashMap",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "HashMapimplementation",
+            "request": "launch",
+            "mainClass": "HashMapimplementation",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "HeapPracticeQ5",
+            "request": "launch",
+            "mainClass": "HeapPracticeQ5",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "HeapPracticeQ4",
+            "request": "launch",
+            "mainClass": "HeapPracticeQ4",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "HeapPracticeQ2",
+            "request": "launch",
+            "mainClass": "HeapPracticeQ2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "HeapPracticeQ1",
+            "request": "launch",
+            "mainClass": "HeapPracticeQ1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "SlidingWindowMax",
+            "request": "launch",
+            "mainClass": "SlidingWindowMax",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "WeakestSoldier",
+            "request": "launch",
+            "mainClass": "WeakestSoldier",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "ConnectNRopesMinCost",
+            "request": "launch",
+            "mainClass": "ConnectNRopesMinCost",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "ConnectNRopes",
+            "request": "launch",
+            "mainClass": "ConnectNRopes",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "NearbyCars",
+            "request": "launch",
+            "mainClass": "NearbyCars",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "HeapSortAlgo",
+            "request": "launch",
+            "mainClass": "HeapSortAlgo",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Heaps",
+            "request": "launch",
+            "mainClass": "Heaps",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BSTPracticeQ5",
+            "request": "launch",
+            "mainClass": "BSTPracticeQ5",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BSTPracticeQ4",
+            "request": "launch",
+            "mainClass": "BSTPracticeQ4",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BSTPracticeQ3",
+            "request": "launch",
+            "mainClass": "BSTPracticeQ3",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BSTPracticeQ2",
+            "request": "launch",
+            "mainClass": "BSTPracticeQ2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BSTPracticeQ1",
+            "request": "launch",
+            "mainClass": "BSTPracticeQ1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Merge2BST",
+            "request": "launch",
+            "mainClass": "Merge2BST",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "LargestBSTinBT",
+            "request": "launch",
+            "mainClass": "LargestBSTinBT",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BalancedBSTFromSortedArray",
+            "request": "launch",
+            "mainClass": "BalancedBSTFromSortedArray",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "MirrorBST",
+            "request": "launch",
+            "mainClass": "MirrorBST",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "ValidateBST",
+            "request": "launch",
+            "mainClass": "ValidateBST",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "RootToLeafPathInBST",
+            "request": "launch",
+            "mainClass": "RootToLeafPathInBST",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DeleteANodeInBST",
+            "request": "launch",
+            "mainClass": "DeleteANodeInBST",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "PrintInRangeBST",
+            "request": "launch",
+            "mainClass": "PrintInRangeBST",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BuildBST",
+            "request": "launch",
+            "mainClass": "BuildBST",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreePracticeQ5",
+            "request": "launch",
+            "mainClass": "BinaryTreePracticeQ5",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreePracticeQ4",
+            "request": "launch",
+            "mainClass": "BinaryTreePracticeQ4",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreePracticeQ3",
+            "request": "launch",
+            "mainClass": "BinaryTreePracticeQ3",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreePracticeQ2",
+            "request": "launch",
+            "mainClass": "BinaryTreePracticeQ2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreesPracticeQ1",
+            "request": "launch",
+            "mainClass": "BinaryTreesPracticeQ1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "TransformtoSumTree",
+            "request": "launch",
+            "mainClass": "TransformtoSumTree",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "KthAncestorOfNodeinBT",
+            "request": "launch",
+            "mainClass": "KthAncestorOfNodeinBT",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "MinimumDistanceBtwn2NodesOfBT",
+            "request": "launch",
+            "mainClass": "MinimumDistanceBtwn2NodesOfBT",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "LowestCommonAncestorInBinaryTree",
+            "request": "launch",
+            "mainClass": "LowestCommonAncestorInBinaryTree",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "KthLevelOfaBinaryTree",
+            "request": "launch",
+            "mainClass": "KthLevelOfaBinaryTree",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "TopViewOfBinaryTree",
+            "request": "launch",
+            "mainClass": "TopViewOfBinaryTree",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "SubtreeOfTree",
+            "request": "launch",
+            "mainClass": "SubtreeOfTree",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreePart2",
+            "request": "launch",
+            "mainClass": "BinaryTreePart2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GreedyAlgoPracticeQ4",
+            "request": "launch",
+            "mainClass": "GreedyAlgoPracticeQ4",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTree",
+            "request": "launch",
+            "mainClass": "BinaryTree",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GreedyAlgoPracticeQ5",
+            "request": "launch",
+            "mainClass": "GreedyAlgoPracticeQ5",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GreedyAlgoPracticeQ3",
+            "request": "launch",
+            "mainClass": "GreedyAlgoPracticeQ3",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GreedyAlgoPracticeQ2",
+            "request": "launch",
+            "mainClass": "GreedyAlgoPracticeQ2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "GreedyAlgoPracitceQ1",
+            "request": "launch",
+            "mainClass": "GreedyAlgoPracitceQ1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "ChocolaProblem",
+            "request": "launch",
+            "mainClass": "ChocolaProblem",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "IndianCoins",
+            "request": "launch",
+            "mainClass": "IndianCoins",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "MaximumchainLength",
+            "request": "launch",
+            "mainClass": "MaximumchainLength",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "MinimumAbsoluteDiff",
+            "request": "launch",
+            "mainClass": "MinimumAbsoluteDiff",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "FractionalKnapsack",
+            "request": "launch",
+            "mainClass": "FractionalKnapsack",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "ActivitySelection",
+            "request": "launch",
+            "mainClass": "ActivitySelection",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "QueuePracticeQ5",
+            "request": "launch",
+            "mainClass": "QueuePracticeQ5",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "QueuePracticeQ4",
+            "request": "launch",
+            "mainClass": "QueuePracticeQ4",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "QueuePracticeQ3",
+            "request": "launch",
+            "mainClass": "QueuePracticeQ3",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "QueuePracticeQ2",
+            "request": "launch",
+            "mainClass": "QueuePracticeQ2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "QueuePracticeQ1",
+            "request": "launch",
+            "mainClass": "QueuePracticeQ1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "QueueReversal",
+            "request": "launch",
+            "mainClass": "QueueReversal",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "InterLeave2HalvesOfQueue",
+            "request": "launch",
+            "mainClass": "InterLeave2HalvesOfQueue",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "FirstNonRepeatingLetter",
+            "request": "launch",
+            "mainClass": "FirstNonRepeatingLetter",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "StackUsing2Queues",
+            "request": "launch",
+            "mainClass": "StackUsing2Queues",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "QueueUsing2Stacks",
+            "request": "launch",
+            "mainClass": "QueueUsing2Stacks",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "QueueUsingJCF",
+            "request": "launch",
+            "mainClass": "QueueUsingJCF",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "QueueUsingLinkedList",
+            "request": "launch",
+            "mainClass": "QueueUsingLinkedList",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "CircularQueueUsingArray",
+            "request": "launch",
+            "mainClass": "CircularQueueUsingArray",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "QueueUsingArray",
+            "request": "launch",
+            "mainClass": "QueueUsingArray",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "StackPracticeQ4",
+            "request": "launch",
+            "mainClass": "StackPracticeQ4",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "StackPracticeQ3",
+            "request": "launch",
+            "mainClass": "StackPracticeQ3",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "StackPracticeQ2",
+            "request": "launch",
+            "mainClass": "StackPracticeQ2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "StackPracticeQ1",
+            "request": "launch",
+            "mainClass": "StackPracticeQ1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "MaxAreaHistogram",
+            "request": "launch",
+            "mainClass": "MaxAreaHistogram",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateParenthesis",
+            "request": "launch",
+            "mainClass": "DuplicateParenthesis",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "ValidParenthesis",
+            "request": "launch",
+            "mainClass": "ValidParenthesis",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "NextGreaterElement",
+            "request": "launch",
+            "mainClass": "NextGreaterElement",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "StackStockSpanProb",
+            "request": "launch",
+            "mainClass": "StackStockSpanProb",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "ReverseaStack",
+            "request": "launch",
+            "mainClass": "ReverseaStack",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "StackProb2",
+            "request": "launch",
+            "mainClass": "StackProb2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "StackProblem1",
+            "request": "launch",
+            "mainClass": "StackProblem1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListStacks",
+            "request": "launch",
+            "mainClass": "LinkedListStacks",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "StacksArrayLlist",
+            "request": "launch",
+            "mainClass": "StacksArrayLlist",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListPracticeQ5",
+            "request": "launch",
+            "mainClass": "LinkedListPracticeQ5",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListPracticeQ3",
+            "request": "launch",
+            "mainClass": "LinkedListPracticeQ3",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListPracticeQ2",
+            "request": "launch",
+            "mainClass": "LinkedListPracticeQ2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListPracticeQ1",
+            "request": "launch",
+            "mainClass": "LinkedListPracticeQ1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DoublyLinkedList",
+            "request": "launch",
+            "mainClass": "DoublyLinkedList",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList3",
+            "request": "launch",
+            "mainClass": "LinkedList3",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList2",
+            "request": "launch",
+            "mainClass": "LinkedList2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListPracticeQ3",
+            "request": "launch",
+            "mainClass": "ArrayListPracticeQ3",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BtfullAraLstQ4Ap2",
+            "request": "launch",
+            "mainClass": "BtfullAraLstQ4Ap2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BtfullAraLstQ4Ap1",
+            "request": "launch",
+            "mainClass": "BtfullAraLstQ4Ap1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BacktrackingPracticeQ3",
+            "request": "launch",
+            "mainClass": "BacktrackingPracticeQ3",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BacktrackingPracticeQ2",
+            "request": "launch",
+            "mainClass": "BacktrackingPracticeQ2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "BackTrackingPracticeQ1",
+            "request": "launch",
+            "mainClass": "BackTrackingPracticeQ1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "ratInmazeMycode",
+            "request": "launch",
+            "mainClass": "ratInmazeMycode",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DivAndConqrPracticeQ3",
+            "request": "launch",
+            "mainClass": "DivAndConqrPracticeQ3",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "DivAndConqrPracticeQ2",
+            "request": "launch",
+            "mainClass": "DivAndConqrPracticeQ2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListPracticeQ2",
+            "request": "launch",
+            "mainClass": "ArrayListPracticeQ2",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "ConatainerWithMostWater",
+            "request": "launch",
+            "mainClass": "ConatainerWithMostWater",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "PairSumArrayList",
+            "request": "launch",
+            "mainClass": "PairSumArrayList",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "PrimeORNot",
+            "request": "launch",
+            "mainClass": "PrimeORNot",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListPracticeQ1",
+            "request": "launch",
+            "mainClass": "ArrayListPracticeQ1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch KadanesAlgorithm",
+            "request": "launch",
+            "mainClass": "KadanesAlgorithm",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch DivAndConqSortArryOfStrings",
+            "request": "launch",
+            "mainClass": "DivAndConqSortArryOfStrings",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecursionQuickSort",
+            "request": "launch",
+            "mainClass": "RecursionQuickSort",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion_NumsIn_DecreasingOrder",
+            "request": "launch",
+            "mainClass": "Recursion_NumsIn_DecreasingOrder",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion_Prnt_numsIn_DecreasingnOrd",
+            "request": "launch",
+            "mainClass": "Recursion_Prnt_numsIn_DecreasingnOrd",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpiralMatrix",
+            "request": "launch",
+            "mainClass": "SpiralMatrix",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountingSort",
+            "request": "launch",
+            "mainClass": "CountingSort",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysAssignmentQ1",
+            "request": "launch",
+            "mainClass": "ArraysAssignmentQ1",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiamondPattern",
+            "request": "launch",
+            "mainClass": "DiamondPattern",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinomialCoef",
+            "request": "launch",
+            "mainClass": "BinomialCoef",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrdctFunctn",
+            "request": "launch",
+            "mainClass": "PrdctFunctn",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakStmnt",
+            "request": "launch",
+            "mainClass": "BreakStmnt",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch RvrsOfNum",
+            "request": "launch",
+            "mainClass": "RvrsOfNum",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch SqrPattern",
+            "request": "launch",
+            "mainClass": "SqrPattern",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrntOnetoTen",
+            "request": "launch",
+            "mainClass": "PrntOnetoTen",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleCalc",
+            "request": "launch",
+            "mainClass": "SimpleCalc",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfElseStatmnt",
+            "request": "launch",
+            "mainClass": "IfElseStatmnt",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Just4Practice",
+            "request": "launch",
+            "mainClass": "Just4Practice",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bill",
+            "request": "launch",
+            "mainClass": "Bill",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaOfSquare",
+            "request": "launch",
+            "mainClass": "AreaOfSquare",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Average",
+            "request": "launch",
+            "mainClass": "Average",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaOfCircle",
+            "request": "launch",
+            "mainClass": "AreaOfCircle",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProductOfNum",
+            "request": "launch",
+            "mainClass": "ProductOfNum",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaCircle",
+            "request": "launch",
+            "mainClass": "AreaCircle",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfNum",
+            "request": "launch",
+            "mainClass": "SumOfNum",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Java_c85dcc12"
+        },
+        {
+            "type": "java",
+            "name": "Launch vario",
+            "request": "launch",
+            "mainClass": "vario",
+            "projectName": "Java_c85dcc12"
+        }
+    ]
+}
